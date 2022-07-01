@@ -10,6 +10,7 @@ Here are some things I'm working on/previously done:
 - 🧫 [Anomaly Science](https://anomaly-science.com/) Startup COO
 - 📰 [Phillipian](https://phillipian.net) Digital Editor 
 - 🎱 [DeepAI](https://deepai.org) Content/Product Intern (prev.)
+- ??? RSI 2022 ???
 - ...and some WIPs not yet released!
 
 What I want to learn and get better at:
