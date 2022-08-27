@@ -1,9 +1,8 @@
 hey im claire!! thanks for stopping by. find my website [here](https://clairebookworm.com)!
 
 
-Here are some things I'm working on/previously done:
+Here are some things I'm working on/previously done (somewhat deprecated, check website for updated info):
 
-- 💻 MIT PRIMES Parallel Computing Research
 - 🧠 UCLA SuthanaLab Fear & BCI Neuroscience Intern
 - 👼 [AngelHacks](https://angelhacks.org) 2.0
 - 👩‍💻 [Hack Club](https://hackclub.com) Intern & Community Team
@@ -11,7 +10,9 @@ Here are some things I'm working on/previously done:
 - 📰 [Phillipian](https://phillipian.net) Digital Editor 
 - 🎱 [DeepAI](https://deepai.org) Content/Product Intern (prev.)
 - ??? RSI 2022 ???
-- ...and some WIPs not yet released!
+- 🏂 [SineRider](https://sinerider.com) Head Honcho, recently launched prototype!
+- 💻 MIT PRIMES Parallel Computing Research 
+- ...and some WIPs!
 
 What I want to learn and get better at:
 
