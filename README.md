@@ -9,7 +9,7 @@ Here are some things I'm working on/previously done (somewhat deprecated, check 
 - 🧫 [Anomaly Science](https://anomaly-science.com/) Startup COO
 - 📰 [Phillipian](https://phillipian.net) Digital Editor 
 - 🎱 [DeepAI](https://deepai.org) Content/Product Intern (prev.)
-- ??? RSI 2022 ???
+- 🧑‍🔬 RSI 2022 @ Harvard Visual Attention Lab
 - 🏂 [SineRider](https://sinerider.com) Head Honcho, recently launched prototype!
 - 💻 MIT PRIMES Parallel Computing Research 
 - ...and some WIPs!
