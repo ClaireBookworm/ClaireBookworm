@@ -10,7 +10,7 @@ Here are some things I'm working on/previously done (somewhat deprecated, check 
 - 📰 [Phillipian](https://phillipian.net) Digital Editor 
 - 🎱 [DeepAI](https://deepai.org) Content/Product Intern (prev.)
 - 🧑‍🔬 RSI 2022 @ Harvard Visual Attention Lab
-- 🏂 [SineRider](https://sinerider.com) Head Honcho, recently launched prototype, hopefully lauching end of 2022! 
+- 🏂 [SineRider](https://sinerider.com) producer; public beta out now :) 
 - 💻 MIT PRIMES Parallel Computing Research 
 - ...and some WIPs!
 
