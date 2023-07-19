@@ -3,22 +3,21 @@ hey im claire!! thanks for stopping by. find my website [here](https://claireboo
 
 Here are some things I'm working on/previously done (somewhat deprecated, check website for updated info):
 
-- 🧠 UCLA SuthanaLab Fear & BCI Neuroscience Intern
-- 👼 [AngelHacks](https://angelhacks.org), hopefully a 3.0 coming soon!
-- 👩‍💻 [Hack Club](https://hackclub.com) Intern & Community Team
-- 🧫 [Anomaly Science](https://anomaly-science.com/) Startup COO
+- 👼 [AngelHacks](https://angelhacks.org), it's been an amazing journey from 2019-2023 :)
+- 👩‍💻 [Hack Club](https://hackclub.com) 
 - 📰 [Phillipian](https://phillipian.net) Digital Editor 
-- 🎱 [DeepAI](https://deepai.org) Content/Product Intern (prev.)
-- 🧑‍🔬 RSI 2022 @ Harvard Visual Attention Lab
+- 🧑‍🔬 RSI (2022: visual attention lab; 2023: comp. cognitive neuro / mit eecs photonics lab)
 - 🏂 [SineRider](https://sinerider.com) producer; public beta out now :) 
-- 💻 MIT PRIMES Parallel Computing Research 
+- 💻 MIT PRIMES Parallel Computing Research
+- 🧠 prev: UCLA SuthanaLab Fear-based memory & BCIs
 - ...and some WIPs!
 
 What I want to learn and get better at:
 
-- to make sites better / more functional
+- to make better & cooler sites
+- understand category theory to understand haskell
 - become a rustacean
 - learn more of the science behind AI/ML!
-- ✅ learn data visualization & d3js
+- data vis / d3! 
 
 DFBTA! 
