@@ -20,4 +20,4 @@ What I want to learn and get better at:
 - learn more of the science behind AI/ML!
 - data vis / d3! 
 
-DFBTA! 
+DFTBA!
