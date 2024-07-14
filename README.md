@@ -8,4 +8,4 @@ some things i'm up to:
 - 📰 prev: [Phillipian](https://phillipian.net) digital editor
 - 🔬 prev: mit csail/primes parallel computing algos research, ucla suthanaLab fear-based memory & BCIs, visual attention lab @ harvard medical
 
-DFBTA! 
+DFTBA!
